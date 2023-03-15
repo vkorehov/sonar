@@ -24,7 +24,7 @@ You have two options to install required tools:
 
 ## Option B: Install required tools yourself on linux of your choice
 
-1. Checlout repo and cd into it
+1. Checkout repo and cd into it
 
 2. Install yourself:
 
