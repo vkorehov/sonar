@@ -38,7 +38,7 @@ Helm version v3.11.2
 
 Terraform version 1.4.0
 
-Kubectl version v1.26.2
+Kubectl version v1.26.1
 
 ```
 
@@ -46,7 +46,7 @@ Kubectl version v1.26.2
 
 ```
 
-minikube start
+minikube start --kubernetes-version=v1.26.1
 
 minikube addons enable ingress
 
